@@ -72,7 +72,7 @@ pip install -r requirements.txt
 ## Usage
 Run the Jupyter notebook to perform the analysis:
 ```
-jupyter notebook Business_Case_Walmart_Business_Case_Study%20(2).ipynb
+jupyter notebook : https://colab.research.google.com/drive/1MRXIL-VbxVlK0TL32elHtfE1oH7TM-1N?usp=sharing
 ```
 ## Contributing 
 
